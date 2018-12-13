@@ -1,9 +1,6 @@
 /***   Included libraries  ***/
 #include <Servo.h>
 
-
-
-
 /***   Global variables and function definition  ***/
 const int motor3_cierra = 2;
 const int motor3_abre = 3;
